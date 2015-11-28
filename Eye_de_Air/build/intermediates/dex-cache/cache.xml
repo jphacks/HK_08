@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/b1013043/git_repository/HK_08/Eye_de_Air/app/build/intermediates/exploded-aar/Eye_de_Air/SmartEyeglassAPI/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aed9dd7d5a23a10abcecbb2231b2b3cbad5b50f5">
+        <dex dex="/Users/b1013043/git_repository/HK_08/Eye_de_Air/app/build/intermediates/pre-dexed/debug/classes-e93354e6daf97cc48b42d8c1ff9cb942afe5ff5e.jar" />
+    </item>
+    <item
+        jar="/Users/b1013043/git_repository/HK_08/Eye_de_Air/app/build/intermediates/exploded-aar/Eye_de_Air/SmartExtensionAPI/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6237ca664da8e7e1d57ee1e8f594d9e76c30e0d0">
+        <dex dex="/Users/b1013043/git_repository/HK_08/Eye_de_Air/app/build/intermediates/pre-dexed/debug/classes-bb2324aa0bfb35f6c2907bd6b5a37995836950b7.jar" />
+    </item>
+    <item
+        jar="/Users/b1013043/git_repository/HK_08/Eye_de_Air/app/build/intermediates/exploded-aar/Eye_de_Air/SmartExtensionUtils/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="79ea64e96b0882925a51b39e57f15d7c9e8304b7">
+        <dex dex="/Users/b1013043/git_repository/HK_08/Eye_de_Air/app/build/intermediates/pre-dexed/debug/classes-3a91967547f800a5046fcba9c904c0f04d7bd548.jar" />
+    </item>
+
+</items>

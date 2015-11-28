@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="3px" android:color="@android:color/darker_gray" />
+    <corners android:radius="5px" />
+    <solid android:color="@android:color/black"/>
+</shape><!-- From: file:/Users/b1013043/git_repository/HK_08/Eye_de_Air/app/src/main/res/drawable-nodpi/shape.xml -->
